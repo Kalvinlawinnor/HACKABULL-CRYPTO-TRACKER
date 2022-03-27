@@ -94,6 +94,7 @@ function Header() {
                 borderRadius: "15px",
                 display: "none",
                 transition: "all 1s",
+                zIndex: 100
               }}
               ref={refNotify}
             >
